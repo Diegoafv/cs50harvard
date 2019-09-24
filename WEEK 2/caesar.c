@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/25274013?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="me50/Diegoafv" /><meta property="og:url" content="https://github.com/me50/Diegoafv" /><meta property="og:description" content="Contribute to me50/Diegoafv development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDQ1MDI3NTgyOjRhOTBhZTgxY2M3Mjg0NDM0N2ZmNjFhZGNjZDI1NjUyYzZiODkzMDQzMTM2OTI4NTAwNWE1ZmQ3YTI0Y2I5ZmU=--af99621ceeff909473ac35ba132f01bc17455c80">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDQ1MDI3NTgyOjM2OWMwYjZmYjU2MmFmMDUzNzNhOWNjYWZhMmIxMmUxZGU0YTQwZGMyNGIyY2E4YzIyY2ExNDkwY2RhOGE1OTE=--facf788d97ffaddf51d5f3069df82f76aea27708">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="F5A3:4F14:233973:33EEC4:5D895396" data-pjax-transient>
+  <meta name="request-id" content="CF2E:13AF:442B5F:64D33E:5D899628" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="F5A3:4F14:233973:33EEC4:5D895396" /><meta name="octolytics-dimension-region_edge" content="sea" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="7519147509489963465" /><meta name="octolytics-actor-id" content="29114966" /><meta name="octolytics-actor-login" content="Diegoafv" /><meta name="octolytics-actor-hash" content="9cd091ffac821b83e818498fada440e39ce41530ddf2b902fcf042f660d6d96a" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="CF2E:13AF:442B5F:64D33E:5D899628" /><meta name="octolytics-dimension-region_edge" content="sea" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="7519147509489963465" /><meta name="octolytics-actor-id" content="29114966" /><meta name="octolytics-actor-login" content="Diegoafv" /><meta name="octolytics-actor-hash" content="9cd091ffac821b83e818498fada440e39ce41530ddf2b902fcf042f660d6d96a" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="Diegoafv">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MzQ5M2NiMWYxOWM4NGE3ZGVkNjA0YmQxYjkyODcxODY4YWNmNzcyYjFjOWRiZmNhYjQ0N2M0ZTE3NTRmNGJmMHx7InJlbW90ZV9hZGRyZXNzIjoiMTcyLjg5LjQ2LjI0MyIsInJlcXVlc3RfaWQiOiJGNUEzOjRGMTQ6MjMzOTczOjMzRUVDNDo1RDg5NTM5NiIsInRpbWVzdGFtcCI6MTU2OTI4MDkyNiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="NTU4NmQzZDRhNWFhOGU3YzE2ZGU2MzA5MTk1N2ZmMGMzNTg1N2JiYzYzZjFlZDhlZWFjOTNlYzI5NWE3MjYxN3x7InJlbW90ZV9hZGRyZXNzIjoiMTcyLjg5LjQ2LjI0MyIsInJlcXVlc3RfaWQiOiJDRjJFOjEzQUY6NDQyQjVGOjY0RDMzRTo1RDg5OTYyOCIsInRpbWVzdGFtcCI6MTU2OTI5Nzk2NCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="ACTIONS_V2_ON_MARKETPLACE,MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES,GHE_CLOUD_TRIAL">
 
@@ -80,7 +80,7 @@
   <meta http-equiv="x-pjax-version" content="a2738fe38f767c3f86c6a17528a24bb4">
   
 
-      <link href="https://github.com/me50/Diegoafv/commits/cs50/problems/2019/x/caesar.atom?token=AG6EEVUMPW423PLVEWLCN253S2KC4" rel="alternate" title="Recent Commits to Diegoafv:cs50/problems/2019/x/caesar" type="application/atom+xml">
+      <link href="https://github.com/me50/Diegoafv/commits/cs50/problems/2019/x/caesar.atom?token=AG6EEVT26R6F4LU5ITUPHY53S3LLY" rel="alternate" title="Recent Commits to Diegoafv:cs50/problems/2019/x/caesar" type="application/atom+xml">
 
   <meta name="go-import" content="github.com/me50/Diegoafv git https://github.com/me50/Diegoafv.git">
 
@@ -159,7 +159,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=OmKvWg2yNLqAxBThrZRhY4qqrAv8QSA7Tw+8Zbkdqzp+CRB/XB676kLCcgpzhCv14y3uyfED2eWJv0lL9cQPxg=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=nEB/C5FitKCOoM2MCI8kbPnxM1tzKVjO1zpB0Cq3WonYK8AuwM478Eymq2fWn276kHZxmX5roRARirT+Zm7+dQ=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -312,7 +312,7 @@
       <img class="avatar" height="20" width="20" alt="@Diegoafv" src="https://avatars2.githubusercontent.com/u/29114966?s=60&amp;v=4" />
       Diegoafv
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="4MRaPk7zFeSau9O5A6lxAWfvamvhbXHXPVaGJ8JssP7Z3TiRtL0n2C/HMvGkQ9O6PrdY/hEO296/O/kRQnqrmw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3aDIx0QEv7S+bFWYAg7X9E+f9n1wxzkIEMjxihdKUsjkuapovkqNiAsQtNCl5HVPFsfE6ICkkwGSpY68l1xJrQ==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -396,7 +396,7 @@
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:25274013,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:29114966,&quot;client_id&quot;:&quot;1750687954.1558811081&quot;,&quot;originating_request_id&quot;:&quot;F5A3:4F14:233973:33EEC4:5D895396&quot;,&quot;originating_url&quot;:&quot;https://github.com/me50/Diegoafv/blob/cs50/problems/2019/x/caesar/caesar.c&quot;,&quot;referrer&quot;:&quot;https://github.com/me50/Diegoafv&quot;}}" data-hydro-click-hmac="bdf6c2bb7b7b3cf5f9b636f84263ddf05db6a97d562e56b14b9f9518ae7b72f0">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:25274013,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:29114966,&quot;client_id&quot;:&quot;1750687954.1558811081&quot;,&quot;originating_request_id&quot;:&quot;CF2E:13AF:442B5F:64D33E:5D899628&quot;,&quot;originating_url&quot;:&quot;https://github.com/me50/Diegoafv/blob/cs50/problems/2019/x/caesar/caesar.c&quot;,&quot;referrer&quot;:&quot;https://github.com/me50/Diegoafv&quot;}}" data-hydro-click-hmac="9a5a25d07a51f1c97f6eb2fc72786bd234d5961ea491df2fe91de1afaa613102">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -423,7 +423,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="SrqdNLnYdVY2rcqyHQ3rG/fPALHSmw6H6gDn7wNDbPdcTz7pzg7mAeGTl4h4H1p2+jaA2w2SNSBkXlx/QgLWmA==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="USKO2DizqzlvIa2VbCkgd2DbkBSf6Yvm5SowZzRU+T1H1y0FT2U4brgf8K8JO5EabSIQfkDgsEFrdIv3dRVDUg==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -543,17 +543,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-09-23T16:52:06-07:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-09-23T21:36:04-07:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-09-23T17:22:06-07:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-09-23T22:06:04-07:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-09-23T20:22:06-07:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-09-24T01:06:04-07:00">
             in 4 hours
           </button>
         </li>
@@ -604,7 +604,7 @@
     <div role="none" class="dropdown-divider"></div>
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="G/w3wr9JIK8DSJnXPSEFKqmAS/lRzuaQTEyg0YNBgwIi5VVtRQcSk7Y0eJ+ay6eR8Nh5bKGtTJnOId/nA1eYZw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3A62zrTZ8HMbiD//mwf1vskuYwG254wd1y6/lGrwla3lF9RhTpfCT6703rc87VcFkHZRlEaEJhRVQ8Ci6uaOyA==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
@@ -658,10 +658,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bTFLHHK9xXkqSb8i+LFg+nQytY74fElNYr1dJGP4mS/p2rgL19d2N0RNQJ+fLpexG7Lg1uke/CrkTwXNLF1crg==" />      <input type="hidden" name="repository_id" value="209897796">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="pC11UTWMKWy/HlP89u3b8GlcjkHtBwV5OLmpuhPTTlMgxoZGkOaaItEarEGRciy7BtzbGfxlsB6+S/FTXHaL0g==" />      <input type="hidden" name="repository_id" value="209897796">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:209897796,&quot;client_id&quot;:&quot;1750687954.1558811081&quot;,&quot;originating_request_id&quot;:&quot;F5A3:4F14:233973:33EEC4:5D895396&quot;,&quot;originating_url&quot;:&quot;https://github.com/me50/Diegoafv/blob/cs50/problems/2019/x/caesar/caesar.c&quot;,&quot;referrer&quot;:&quot;https://github.com/me50/Diegoafv&quot;,&quot;user_id&quot;:29114966}}" data-hydro-click-hmac="2c027486adbb245c68da212530b0cad697d7b331e707f8a6be93901e35f4f0d5" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:209897796,&quot;client_id&quot;:&quot;1750687954.1558811081&quot;,&quot;originating_request_id&quot;:&quot;CF2E:13AF:442B5F:64D33E:5D899628&quot;,&quot;originating_url&quot;:&quot;https://github.com/me50/Diegoafv/blob/cs50/problems/2019/x/caesar/caesar.c&quot;,&quot;referrer&quot;:&quot;https://github.com/me50/Diegoafv&quot;,&quot;user_id&quot;:29114966}}" data-hydro-click-hmac="f5255d518100be8d994bad8fe3ee8e280012a819b13e3b199fd359e5c215451f" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Unwatch
           </span>
@@ -732,18 +732,18 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container on">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/me50/Diegoafv/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="jpRCpGGT0nkv5nqcwBhqyw8OBVSbhNFXOlu1IKzDRvM2d00qKOYTIyOWL3Bb/A12CDKgLgmfN8ZxmP+4g7NIgg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/me50/Diegoafv/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RJRuBmwV5e4V9NavzmYlxxjkxuu7W3t+M0qykLWGpPH8d2GIJWAktBmEg0NVgkJ6H9hjkSlAne94ifgImvaqgA==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar me50/Diegoafv" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:209897796,&quot;client_id&quot;:&quot;1750687954.1558811081&quot;,&quot;originating_request_id&quot;:&quot;F5A3:4F14:233973:33EEC4:5D895396&quot;,&quot;originating_url&quot;:&quot;https://github.com/me50/Diegoafv/blob/cs50/problems/2019/x/caesar/caesar.c&quot;,&quot;referrer&quot;:&quot;https://github.com/me50/Diegoafv&quot;,&quot;user_id&quot;:29114966}}" data-hydro-click-hmac="bdc7dab84ab35ab934c449068614d6bd89ec9a4b01e536afeb9c3f569541d5d4" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar me50/Diegoafv" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:209897796,&quot;client_id&quot;:&quot;1750687954.1558811081&quot;,&quot;originating_request_id&quot;:&quot;CF2E:13AF:442B5F:64D33E:5D899628&quot;,&quot;originating_url&quot;:&quot;https://github.com/me50/Diegoafv/blob/cs50/problems/2019/x/caesar/caesar.c&quot;,&quot;referrer&quot;:&quot;https://github.com/me50/Diegoafv&quot;,&quot;user_id&quot;:29114966}}" data-hydro-click-hmac="aed14f5291cf9b942ab463b41d72831c59867d7d967017993d5c184893ab770f" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/me50/Diegoafv/stargazers"
            aria-label="1 user starred this repository">
            1
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/me50/Diegoafv/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Od2rEG3lVmhx/5JNdXRiZsMUkHE4b8/7krlPrw+uwQ0StJVcIiNV5BusEh4AViXODhO59INK1ia1kMtxox+MfQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/me50/Diegoafv/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="mjH9uJdY18J1PZ6Q/3brVuvpDs1sZx5E+0J/s2PHGLGxWMP02J7UTh9uHsOKVKz+Ju4nSNdCB5nca/ttz3ZVwQ==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star me50/Diegoafv" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:209897796,&quot;client_id&quot;:&quot;1750687954.1558811081&quot;,&quot;originating_request_id&quot;:&quot;F5A3:4F14:233973:33EEC4:5D895396&quot;,&quot;originating_url&quot;:&quot;https://github.com/me50/Diegoafv/blob/cs50/problems/2019/x/caesar/caesar.c&quot;,&quot;referrer&quot;:&quot;https://github.com/me50/Diegoafv&quot;,&quot;user_id&quot;:29114966}}" data-hydro-click-hmac="7cb2c218e30815e3fec7850434e91a86ce53dc65cee84fa22c1657f871624373" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star me50/Diegoafv" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:209897796,&quot;client_id&quot;:&quot;1750687954.1558811081&quot;,&quot;originating_request_id&quot;:&quot;CF2E:13AF:442B5F:64D33E:5D899628&quot;,&quot;originating_url&quot;:&quot;https://github.com/me50/Diegoafv/blob/cs50/problems/2019/x/caesar/caesar.c&quot;,&quot;referrer&quot;:&quot;https://github.com/me50/Diegoafv&quot;,&quot;user_id&quot;:29114966}}" data-hydro-click-hmac="fcd8f94bd50d1978917d7854e71591470e0f9c6b38c857af999a802229808027" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/me50/Diegoafv/stargazers"
            aria-label="1 user starred this repository">
@@ -867,9 +867,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/me50/Diegoafv/blob/a179f183aa6df4b0f02a055ff9d91557c5f22656/caesar.c">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/me50/Diegoafv/blob/27ab158c4ddcd44e6d8b217e437b23bc4d3b514d/caesar.c">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:a708c61e696b4c765164f3673245567d -->
+    <!-- blob contrib key: blob_contributors:v21:a219e53177eb5dbe575b3cc638c6f118 -->
       
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-column flex-md-row">
@@ -921,45 +921,16 @@
 
 
 
-    
-  <div class="Box Box--condensed d-flex flex-column flex-shrink-0">
-      <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
-        <span class="pr-md-4 f6">
-          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=29114966" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Diegoafv"><img class="avatar" src="https://avatars1.githubusercontent.com/u/29114966?s=40&amp;v=4" width="20" height="20" alt="@Diegoafv" /></a>
-          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="contributor" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=29114966" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Diegoafv">Diegoafv</a>
-            <span class="lh-default v-align-middle">
-              <a data-pjax="true" title="automated commit by submit50 [lang=C.UTF-8]" class="link-gray" href="/me50/Diegoafv/commit/a179f183aa6df4b0f02a055ff9d91557c5f22656">automated commit by submit50 [lang=C.UTF-8]</a>
-            </span>
-        </span>
-        <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
-          <a class="pr-2 text-mono link-gray" href="/me50/Diegoafv/commit/a179f183aa6df4b0f02a055ff9d91557c5f22656" data-pjax>a179f18</a>
-          <relative-time datetime="2019-09-23T23:20:54Z">Sep 23, 2019</relative-time>
-        </span>
+    <include-fragment src="/me50/Diegoafv/contributors/cs50/problems/2019/x/caesar/caesar.c" class="Box Box--condensed commit-loader">
+      <div class="Box-body bg-blue-light f6">
+        Fetching contributors&hellip;
       </div>
 
-    <div class="Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap" >
-      <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
-        <summary class="btn-link">
-          <span><strong>1</strong> contributor</span>
-        </summary>
-        <details-dialog
-          class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-          aria-label="Users who have contributed to this file"
-          src="/me50/Diegoafv/contributors/cs50/problems/2019/x/caesar/caesar.c/list" preload>
-          <div class="Box-header">
-            <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-              <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-            </button>
-            <h3 class="Box-title">
-              Users who have contributed to this file
-            </h3>
-          </div>
-          <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
-        </details-dialog>
-      </details>
-    </div>
-  </div>
-
+      <div class="Box-body d-flex flex-items-center" >
+          <img alt="" class="loader-loading mr-2" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+        <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
+      </div>
+</include-fragment>
 
 
 
@@ -969,9 +940,9 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
-      80 lines (58 sloc)
+      77 lines (58 sloc)
       <span class="file-info-divider"></span>
-    1.42 KB
+    1.93 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
@@ -991,13 +962,13 @@
                 <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
             </a>
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/me50/Diegoafv/edit/cs50/problems/2019/x/caesar/caesar.c" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Ff6P1jRDAWf14M5fzeFqEZ/iFxl3S/6Dr6lmIHzJCDuOTklX4b6HA4osvAUEPaWVIftqyuBOv/hl0/JYIJRUuQ==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/me50/Diegoafv/edit/cs50/problems/2019/x/caesar/caesar.c" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="lGry2YOEU0z/YheCp3ia91vA+9ELuMM21nea7Jc/cksP2jRYVnnVKICuZdhupFVz5dmGApy9gk0cDQ6Uy2IuyQ==" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
                 aria-label="Edit this file" data-hotkey="e" data-disable-with>
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/me50/Diegoafv/delete/cs50/problems/2019/x/caesar/caesar.c" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/WZtFg6IQSFjuVzgWKD7HgLRB7IPDdTEtsfBMy6vZdev8guyKdkCL/7nHRJotDk53pkkvoZmM618bmPMqsuWAw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/me50/Diegoafv/delete/cs50/problems/2019/x/caesar/caesar.c" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="7JciSJfgj/osCo0OpZ2pinfCyc5f6PMJ2nxPspHqkN++A0TssLHM9LFUzPyViWutq4rqwtaDFGAQ1e1NFY5jCw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1062,15 +1033,15 @@
       </tr>
       <tr>
         <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">int</span> key = <span class="pl-c1">0</span>;</td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">int</span> key = <span class="pl-c1">0</span>; <span class="pl-c"><span class="pl-c">//</span>key user input</span></td>
       </tr>
       <tr>
         <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line">    string plaintext = <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>;</td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">    string plaintext = <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>; <span class="pl-c"><span class="pl-c">//</span>text user input</span></td>
       </tr>
       <tr>
         <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line">    string ciphertext = <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>;</td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">    string ciphertext = <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>; <span class="pl-c"><span class="pl-c">//</span>text result after code</span></td>
       </tr>
       <tr>
         <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
@@ -1078,7 +1049,7 @@
       </tr>
       <tr>
         <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">if</span> (argc == <span class="pl-c1">2</span>)</td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">if</span> (argc == <span class="pl-c1">2</span>) <span class="pl-c"><span class="pl-c">//</span>if there&#39;s one argument only</span></td>
       </tr>
       <tr>
         <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
@@ -1086,7 +1057,7 @@
       </tr>
       <tr>
         <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">if</span> (<span class="pl-c1">valid_argv</span>(argv[<span class="pl-c1">1</span>]))</td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">if</span> (<span class="pl-c1">valid_argv</span>(argv[<span class="pl-c1">1</span>])) <span class="pl-c"><span class="pl-c">//</span>validates the text</span></td>
       </tr>
       <tr>
         <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
@@ -1094,7 +1065,7 @@
       </tr>
       <tr>
         <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code blob-code-inner js-file-line">            key = <span class="pl-c1">atoi</span>(argv[<span class="pl-c1">1</span>]);</td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">            key = <span class="pl-c1">atoi</span>(argv[<span class="pl-c1">1</span>]); <span class="pl-c"><span class="pl-c">//</span>converts text to int</span></td>
       </tr>
       <tr>
         <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
@@ -1102,7 +1073,7 @@
       </tr>
       <tr>
         <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line">            plaintext = <span class="pl-c1">get_string</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>plaintext: <span class="pl-pds">&quot;</span></span>);</td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">            plaintext = <span class="pl-c1">get_string</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>plaintext: <span class="pl-pds">&quot;</span></span>); <span class="pl-c"><span class="pl-c">//</span>input text</span></td>
       </tr>
       <tr>
         <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
@@ -1110,7 +1081,7 @@
       </tr>
       <tr>
         <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td id="LC24" class="blob-code blob-code-inner js-file-line">            ciphertext = <span class="pl-c1">codify</span>(plaintext, key);</td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">            ciphertext = <span class="pl-c1">codify</span>(plaintext, key); <span class="pl-c"><span class="pl-c">//</span>codifies input text with key provided on arguments</span></td>
       </tr>
       <tr>
         <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
@@ -1142,7 +1113,7 @@
       </tr>
       <tr>
         <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Usage: ./caesar key<span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>);</td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Usage: ./caesar key<span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>); <span class="pl-c"><span class="pl-c">//</span>in case user didn&#39;t provide the right information</span></td>
       </tr>
       <tr>
         <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
@@ -1168,92 +1139,92 @@
       </tr>
       <tr>
         <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-k">bool</span> <span class="pl-en">valid_argv</span>(string argument)</td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">//</span>validates the key provided, checks if it&#39;s a number or not</span></td>
       </tr>
       <tr>
         <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line">{</td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-k">bool</span> <span class="pl-en">valid_argv</span>(string argument)</td>
       </tr>
       <tr>
         <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">int</span> i = <span class="pl-c1">0</span>;</td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">{</td>
       </tr>
       <tr>
         <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line">    </td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">int</span> i = <span class="pl-c1">0</span>;</td>
       </tr>
       <tr>
         <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">while</span> (argument[i] != <span class="pl-s"><span class="pl-pds">&#39;</span><span class="pl-cce">\0</span><span class="pl-pds">&#39;</span></span>)</td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">    </td>
       </tr>
       <tr>
         <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code blob-code-inner js-file-line">    {</td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">while</span> (argument[i] != <span class="pl-s"><span class="pl-pds">&#39;</span><span class="pl-cce">\0</span><span class="pl-pds">&#39;</span></span>) <span class="pl-c"><span class="pl-c">//</span>reads every charactere, until the end</span></td>
       </tr>
       <tr>
         <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td id="LC44" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">if</span> (argument[i] &lt; <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span> || argument[i] &gt; <span class="pl-s"><span class="pl-pds">&#39;</span>9<span class="pl-pds">&#39;</span></span>)</td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">    {</td>
       </tr>
       <tr>
         <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
-        <td id="LC45" class="blob-code blob-code-inner js-file-line">        {</td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">if</span> (argument[i] &lt; <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span> || argument[i] &gt; <span class="pl-s"><span class="pl-pds">&#39;</span>9<span class="pl-pds">&#39;</span></span>) <span class="pl-c"><span class="pl-c">//</span>if it&#39;s not a number</span></td>
       </tr>
       <tr>
         <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
-        <td id="LC46" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">return</span> <span class="pl-c1">false</span>;</td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">        {</td>
       </tr>
       <tr>
         <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
-        <td id="LC47" class="blob-code blob-code-inner js-file-line">        }</td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">return</span> <span class="pl-c1">false</span>;</td>
       </tr>
       <tr>
         <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
-        <td id="LC48" class="blob-code blob-code-inner js-file-line">        i++;</td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">        }</td>
       </tr>
       <tr>
         <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
-        <td id="LC49" class="blob-code blob-code-inner js-file-line">    }</td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">        i++;</td>
       </tr>
       <tr>
         <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
-        <td id="LC50" class="blob-code blob-code-inner js-file-line">    </td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">    }</td>
       </tr>
       <tr>
         <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
-        <td id="LC51" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">return</span> <span class="pl-c1">true</span>;</td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">    </td>
       </tr>
       <tr>
         <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
-        <td id="LC52" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">return</span> <span class="pl-c1">true</span>; <span class="pl-c"><span class="pl-c">//</span>it&#39;s a number</span></td>
       </tr>
       <tr>
         <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
-        <td id="LC53" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
-        <td id="LC54" class="blob-code blob-code-inner js-file-line">string <span class="pl-en">codify</span>(string plaintext, <span class="pl-k">int</span> key)</td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
-        <td id="LC55" class="blob-code blob-code-inner js-file-line">{</td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">//</span>codifies the text using a specific key</span></td>
       </tr>
       <tr>
         <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
-        <td id="LC56" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">char</span> temp;</td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">string <span class="pl-en">codify</span>(string plaintext, <span class="pl-k">int</span> key)</td>
       </tr>
       <tr>
         <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
-        <td id="LC57" class="blob-code blob-code-inner js-file-line">    string ciphertext = plaintext;</td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line">{</td>
       </tr>
       <tr>
         <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
-        <td id="LC58" class="blob-code blob-code-inner js-file-line">    </td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">char</span> temp;</td>
       </tr>
       <tr>
         <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
-        <td id="LC59" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">//</span>printf(&quot;%s&quot;, ciphertext);</span></td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line">    string ciphertext = plaintext;</td>
       </tr>
       <tr>
         <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
@@ -1269,7 +1240,7 @@
       </tr>
       <tr>
         <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
-        <td id="LC63" class="blob-code blob-code-inner js-file-line">        temp = ciphertext[i];</td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line">        temp = ciphertext[i]; <span class="pl-c"><span class="pl-c">//</span>current position</span></td>
       </tr>
       <tr>
         <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
@@ -1277,7 +1248,7 @@
       </tr>
       <tr>
         <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
-        <td id="LC65" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">if</span> (<span class="pl-c1">islower</span>(temp))</td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">if</span> (<span class="pl-c1">islower</span>(temp)) <span class="pl-c"><span class="pl-c">//</span>in case current is an lowercase letter</span></td>
       </tr>
       <tr>
         <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
@@ -1285,7 +1256,7 @@
       </tr>
       <tr>
         <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
-        <td id="LC67" class="blob-code blob-code-inner js-file-line">            ciphertext[i] = ((((temp + key) - <span class="pl-c1">97</span>) % <span class="pl-c1">26</span>) + <span class="pl-c1">97</span>);</td>
+        <td id="LC67" class="blob-code blob-code-inner js-file-line">            ciphertext[i] = ((((temp + key) - <span class="pl-c1">97</span>) % <span class="pl-c1">26</span>) + <span class="pl-c1">97</span>); <span class="pl-c"><span class="pl-c">//</span>grants it works even with overflow</span></td>
       </tr>
       <tr>
         <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
@@ -1293,7 +1264,7 @@
       </tr>
       <tr>
         <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
-        <td id="LC69" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">else</span> <span class="pl-k">if</span> (<span class="pl-c1">isupper</span>(temp))</td>
+        <td id="LC69" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">else</span> <span class="pl-k">if</span> (<span class="pl-c1">isupper</span>(temp)) <span class="pl-c"><span class="pl-c">//</span>in case current is an uppercase letter</span></td>
       </tr>
       <tr>
         <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
@@ -1301,7 +1272,7 @@
       </tr>
       <tr>
         <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
-        <td id="LC71" class="blob-code blob-code-inner js-file-line">            ciphertext[i] = ((((temp + key) - <span class="pl-c1">65</span>) % <span class="pl-c1">26</span>) + <span class="pl-c1">65</span>);</td>
+        <td id="LC71" class="blob-code blob-code-inner js-file-line">            ciphertext[i] = ((((temp + key) - <span class="pl-c1">65</span>) % <span class="pl-c1">26</span>) + <span class="pl-c1">65</span>); <span class="pl-c"><span class="pl-c">//</span>grants it works even with overflow</span></td>
       </tr>
       <tr>
         <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
@@ -1309,31 +1280,19 @@
       </tr>
       <tr>
         <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
-        <td id="LC73" class="blob-code blob-code-inner js-file-line">        </td>
+        <td id="LC73" class="blob-code blob-code-inner js-file-line">    }</td>
       </tr>
       <tr>
         <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
-        <td id="LC74" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"><span class="pl-c">//</span>printf(&quot;%c&quot;, ciphertext[i]);</span></td>
+        <td id="LC74" class="blob-code blob-code-inner js-file-line">    </td>
       </tr>
       <tr>
         <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
-        <td id="LC75" class="blob-code blob-code-inner js-file-line">    }</td>
+        <td id="LC75" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">return</span> ciphertext;</td>
       </tr>
       <tr>
         <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
-        <td id="LC76" class="blob-code blob-code-inner js-file-line">    </td>
-      </tr>
-      <tr>
-        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
-        <td id="LC77" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">return</span> ciphertext;</td>
-      </tr>
-      <tr>
-        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
-        <td id="LC78" class="blob-code blob-code-inner js-file-line">    </td>
-      </tr>
-      <tr>
-        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
-        <td id="LC79" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC76" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
 </table>
 
@@ -1353,7 +1312,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/me50/Diegoafv/blame/a179f183aa6df4b0f02a055ff9d91557c5f22656/caesar.c">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/me50/Diegoafv/blame/27ab158c4ddcd44e6d8b217e437b23bc4d3b514d/caesar.c">View git blame</a></li>
       </ul>
     </details-menu>
   </details>
@@ -1388,7 +1347,7 @@
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.46329s from unicorn-d66b474b6-bkh7z">GitHub</span>, Inc.</li>
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.62613s from unicorn-856685ccc5-lgdnh">GitHub</span>, Inc.</li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
